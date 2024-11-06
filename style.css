@@ -4,7 +4,7 @@ body{
     background-color:#b1b1b1;
     color:#333;
     line-height: 1,6;
-    animation: fadeIn 2s ease-in;
+    animation: fadeIn 3s ease-in;
 }
 header{
     font-family: sans-serif;
